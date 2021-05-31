@@ -1,3 +1,3 @@
 # Salary-Prediction
 
-A person's salary is predicted from years of experience using linear regression.
+A person's salary can be predicted from years of experience using linear regression.
